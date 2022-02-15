@@ -1,0 +1,387 @@
+Nível;Indicador;2010;Unidade
+12;Amostra - Religião;;
+12.1;Pessoas de 10 anos ou mais de idade;;
+12.1.1;Classe de rendimento;;
+12.1.1.1;Sem rendimento;8795;pessoas
+12.1.1.1.1;Religião;;
+12.1.1.1.1.1;Sem religião;660;pessoas
+12.1.1.1.1.2;Católica apostólica romana;5442;pessoas
+12.1.1.1.1.3;Espírita;140;pessoas
+12.1.1.1.1.4;Evangélica;2241;pessoas
+12.1.1.1.1.4.1;Não determinada;465;pessoas
+12.1.1.1.1.4.2;Missionária;672;pessoas
+12.1.1.1.1.4.3;Pentecostal;1104;pessoas
+12.1.1.1.1.5;Umbanda e Candomblé;;pessoas
+12.1.1.1.1.6;Outras religiosidades;312;pessoas
+12.1.1.2;Até 1/8 de salário mínimo;1300;pessoas
+12.1.1.2.1;Religião;;
+12.1.1.2.1.1;Sem religião;395;pessoas
+12.1.1.2.1.2;Católica apostólica romana;390;pessoas
+12.1.1.2.1.3;Espírita;;pessoas
+12.1.1.2.1.4;Evangélica;501;pessoas
+12.1.1.2.1.4.1;Não determinada;145;pessoas
+12.1.1.2.1.4.2;Missionária;67;pessoas
+12.1.1.2.1.4.3;Pentecostal;290;pessoas
+12.1.1.2.1.5;Umbanda e Candomblé;;pessoas
+12.1.1.2.1.6;Outras religiosidades;14;pessoas
+12.1.1.3;Mais de 1/8 a 1/4 de salário mínimo;5165;pessoas
+12.1.1.3.1;Religião;;
+12.1.1.3.1.1;Sem religião;1004;pessoas
+12.1.1.3.1.2;Católica apostólica romana;1766;pessoas
+12.1.1.3.1.3;Espírita;38;pessoas
+12.1.1.3.1.4;Evangélica;2038;pessoas
+12.1.1.3.1.4.1;Não determinada;196;pessoas
+12.1.1.3.1.4.2;Missionária;194;pessoas
+12.1.1.3.1.4.3;Pentecostal;1648;pessoas
+12.1.1.3.1.5;Umbanda e Candomblé;;pessoas
+12.1.1.3.1.6;Outras religiosidades;302;pessoas
+12.1.1.4;Mais de 1/4 a 1/2 salário mínimo;22304;pessoas
+12.1.1.4.1;Religião;;
+12.1.1.4.1.1;Sem religião;4048;pessoas
+12.1.1.4.1.2;Católica apostólica romana;9319;pessoas
+12.1.1.4.1.3;Espírita;104;pessoas
+12.1.1.4.1.4;Evangélica;8259;pessoas
+12.1.1.4.1.4.1;Não determinada;1217;pessoas
+12.1.1.4.1.4.2;Missionária;1273;pessoas
+12.1.1.4.1.4.3;Pentecostal;5769;pessoas
+12.1.1.4.1.5;Umbanda e Candomblé;27;pessoas
+12.1.1.4.1.6;Outras religiosidades;512;pessoas
+12.1.1.5;Mais de 1/2 a 1 salário mínimo;53565;pessoas
+12.1.1.5.1;Religião;;
+12.1.1.5.1.1;Sem religião;8037;pessoas
+12.1.1.5.1.2;Católica apostólica romana;22853;pessoas
+12.1.1.5.1.3;Espírita;512;pessoas
+12.1.1.5.1.4;Evangélica;20851;pessoas
+12.1.1.5.1.4.1;Não determinada;3038;pessoas
+12.1.1.5.1.4.2;Missionária;3476;pessoas
+12.1.1.5.1.4.3;Pentecostal;14336;pessoas
+12.1.1.5.1.5;Umbanda e Candomblé;59;pessoas
+12.1.1.5.1.6;Outras religiosidades;1224;pessoas
+12.1.1.6;Mais de 1 a 2 salários mínimos;63169;pessoas
+12.1.1.6.1;Religião;;
+12.1.1.6.1.1;Sem religião;6982;pessoas
+12.1.1.6.1.2;Católica apostólica romana;32177;pessoas
+12.1.1.6.1.3;Espírita;1237;pessoas
+12.1.1.6.1.4;Evangélica;20711;pessoas
+12.1.1.6.1.4.1;Não determinada;3543;pessoas
+12.1.1.6.1.4.2;Missionária;5879;pessoas
+12.1.1.6.1.4.3;Pentecostal;11289;pessoas
+12.1.1.6.1.5;Umbanda e Candomblé;66;pessoas
+12.1.1.6.1.6;Outras religiosidades;1888;pessoas
+12.1.1.7;Mais de 2 a 3 salários mínimos;33786;pessoas
+12.1.1.7.1;Religião;;
+12.1.1.7.1.1;Sem religião;2618;pessoas
+12.1.1.7.1.2;Católica apostólica romana;19924;pessoas
+12.1.1.7.1.3;Espírita;1232;pessoas
+12.1.1.7.1.4;Evangélica;9311;pessoas
+12.1.1.7.1.4.1;Não determinada;1763;pessoas
+12.1.1.7.1.4.2;Missionária;3141;pessoas
+12.1.1.7.1.4.3;Pentecostal;4407;pessoas
+12.1.1.7.1.5;Umbanda e Candomblé;51;pessoas
+12.1.1.7.1.6;Outras religiosidades;621;pessoas
+12.1.1.8;Mais de 3 a 5 salários mínimos;38864;pessoas
+12.1.1.8.1;Religião;;
+12.1.1.8.1.1;Sem religião;2589;pessoas
+12.1.1.8.1.2;Católica apostólica romana;24691;pessoas
+12.1.1.8.1.3;Espírita;1613;pessoas
+12.1.1.8.1.4;Evangélica;8903;pessoas
+12.1.1.8.1.4.1;Não determinada;1714;pessoas
+12.1.1.8.1.4.2;Missionária;3998;pessoas
+12.1.1.8.1.4.3;Pentecostal;3190;pessoas
+12.1.1.8.1.5;Umbanda e Candomblé;82;pessoas
+12.1.1.8.1.6;Outras religiosidades;952;pessoas
+12.1.1.9;Mais de 5 a 10 salários mínimos;39068;pessoas
+12.1.1.9.1;Religião;;
+12.1.1.9.1.1;Sem religião;2520;pessoas
+12.1.1.9.1.2;Católica apostólica romana;27162;pessoas
+12.1.1.9.1.3;Espírita;1957;pessoas
+12.1.1.9.1.4;Evangélica;6463;pessoas
+12.1.1.9.1.4.1;Não determinada;1304;pessoas
+12.1.1.9.1.4.2;Missionária;3343;pessoas
+12.1.1.9.1.4.3;Pentecostal;1816;pessoas
+12.1.1.9.1.5;Umbanda e Candomblé;94;pessoas
+12.1.1.9.1.6;Outras religiosidades;809;pessoas
+12.1.1.10;Mais de 10 salários mínimos;20091;pessoas
+12.1.1.10.1;Religião;;
+12.1.1.10.1.1;Sem religião;1546;pessoas
+12.1.1.10.1.2;Católica apostólica romana;13624;pessoas
+12.1.1.10.1.3;Espírita;1277;pessoas
+12.1.1.10.1.4;Evangélica;2902;pessoas
+12.1.1.10.1.4.1;Não determinada;640;pessoas
+12.1.1.10.1.4.2;Missionária;1606;pessoas
+12.1.1.10.1.4.3;Pentecostal;656;pessoas
+12.1.1.10.1.5;Umbanda e Camdomblé;102;pessoas
+12.1.1.10.1.6;Outras religiosidades;628;pessoas
+12.1.2;Posição na ocupação;;
+12.1.2.1;Conta própria;29864;pessoas
+12.1.2.1.1;Religião;;
+12.1.2.1.1.1;Sem religião;3020;pessoas
+12.1.2.1.1.2;Católica apostólica romana;16034;pessoas
+12.1.2.1.1.3;Espírita;1174;pessoas
+12.1.2.1.1.4;Evangélica;8674;pessoas
+12.1.2.1.1.4.1;Não determinada;1645;pessoas
+12.1.2.1.1.4.2;Missionária;2276;pessoas
+12.1.2.1.1.4.3;Pentecostal;4754;pessoas
+12.1.2.1.1.5;Umbanda e Candomblé;126;pessoas
+12.1.2.1.1.6;Outras religiosidades;761;pessoas
+12.1.2.1.1.7;Não sabe;75;pessoas
+12.1.2.1.1.8;Sem declaração;;pessoas
+12.1.2.2;Empregadores;8508;pessoas
+12.1.2.2.1;Religião;;
+12.1.2.2.1.1;Sem religião;634;pessoas
+12.1.2.2.1.2;Católica apostólica romana;5718;pessoas
+12.1.2.2.1.3;Espírita;343;pessoas
+12.1.2.2.1.4;Evangélica;1558;pessoas
+12.1.2.2.1.4.1;Não determinada;308;pessoas
+12.1.2.2.1.4.2;Missionária;775;pessoas
+12.1.2.2.1.4.3;Pentecostal;475;pessoas
+12.1.2.2.1.5;Umbanda e Candomblé;21;pessoas
+12.1.2.2.1.6;Outras religiosidades;233;pessoas
+12.1.2.2.1.7;Não sabe;;pessoas
+12.1.2.2.1.8;Sem declaração;;pessoas
+12.1.2.3;Empregados;125587;pessoas
+12.1.2.3.1;Religião;;
+12.1.2.3.1.1;Sem religião;14861;pessoas
+12.1.2.3.1.2;Católica apostólica romana;68565;pessoas
+12.1.2.3.1.3;Espírita;3412;pessoas
+12.1.2.3.1.4;Evangélica;35413;pessoas
+12.1.2.3.1.4.1;Não determinada;6113;pessoas
+12.1.2.3.1.4.2;Missionária;10768;pessoas
+12.1.2.3.1.4.3;Pentecostal;18532;pessoas
+12.1.2.3.1.5;Umbanda e Candomblé;187;pessoas
+12.1.2.3.1.6;Outras religiosidades;2963;pessoas
+12.1.2.3.1.7;Não sabe;186;pessoas
+12.1.2.3.1.8;Sem declaração;;pessoas
+12.1.2.4;Não remunerados;1075;pessoas
+12.1.2.4.1;Religião;;
+12.1.2.4.1.1;Sem religião;69;pessoas
+12.1.2.4.1.2;Católica apostólica romana;547;pessoas
+12.1.2.4.1.3;Espírita;19;pessoas
+12.1.2.4.1.4;Evangélica;412;pessoas
+12.1.2.4.1.4.1;Não determinada;118;pessoas
+12.1.2.4.1.4.2;Missionária;137;pessoas
+12.1.2.4.1.4.3;Pentecostal;157;pessoas
+12.1.2.4.1.5;Umbanda e Candomblé;;pessoas
+12.1.2.4.1.6;Outras religiosidades;28;pessoas
+12.1.2.4.1.7;Não sabe;;pessoas
+12.1.2.4.1.8;Sem declaração;;pessoas
+12.1.2.5;Trabalhadores na produção para o próprio consumo;61;pessoas
+12.1.2.5.1;Religião;;
+12.1.2.5.1.1;Sem religião;39;pessoas
+12.1.2.5.1.2;Católica apostólica romana;;pessoas
+12.1.2.5.1.3;Espírita;;pessoas
+12.1.2.5.1.4;Evangélica;23;pessoas
+12.1.2.5.1.4.1;Não determinada;23;pessoas
+12.1.2.5.1.4.2;Missionária;;pessoas
+12.1.2.5.1.4.3;Pentecostal;;pessoas
+12.1.2.5.1.5;Umbanda e Candomblé;;pessoas
+12.1.2.5.1.6;Outras religiosidades;;pessoas
+12.1.2.5.1.7;Não sabe;;pessoas
+12.1.2.5.1.8;Sem declaração;;pessoas
+12.2;Pessoas de 25 anos ou mais de idade;;
+12.2.1;Nível de instrução;;
+12.2.1.1;Sem instrução ou fundamental incompleto;48212;pessoas
+12.2.1.1.1;Religião;;
+12.2.1.1.1.1;Sem religião;6283;pessoas
+12.2.1.1.1.2;Católica apostólica romana;24521;pessoas
+12.2.1.1.1.3;Espírita;507;pessoas
+12.2.1.1.1.4;Evangélica;15882;pessoas
+12.2.1.1.1.4.1;Não determinada;2463;pessoas
+12.2.1.1.1.4.2;Missionária;2605;pessoas
+12.2.1.1.1.4.3;Pentecostal;10814;pessoas
+12.2.1.1.1.5;Umbanda e Candomblé;37;pessoas
+12.2.1.1.1.6;Outras religiosidades;937;pessoas
+12.2.1.2;Fundamental completo ou médio incompleto;26221;pessoas
+12.2.1.2.1;Religião;;
+12.2.1.2.1.1;Sem religião;3107;pessoas
+12.2.1.2.1.2;Católica apostólica romana;13545;pessoas
+12.2.1.2.1.3;Espírita;351;pessoas
+12.2.1.2.1.4;Evangélica;8576;pessoas
+12.2.1.2.1.4.1;Não determinada;1351;pessoas
+12.2.1.2.1.4.2;Missionária;1800;pessoas
+12.2.1.2.1.4.3;Pentecostal;5425;pessoas
+12.2.1.2.1.5;Umbanda e Candomblé;45;pessoas
+12.2.1.2.1.6;Outras religiosidades;542;pessoas
+12.2.1.3;Médio completo ou superior incompleto;67042;pessoas
+12.2.1.3.1;Religião;;
+12.2.1.3.1.1;Sem religião;5970;pessoas
+12.2.1.3.1.2;Católica apostólica romana;37215;pessoas
+12.2.1.3.1.3;Espírita;2091;pessoas
+12.2.1.3.1.4;Evangélica;19533;pessoas
+12.2.1.3.1.4.1;Não determinada;3676;pessoas
+12.2.1.3.1.4.2;Missionária;5695;pessoas
+12.2.1.3.1.4.3;Pentecostal;10162;pessoas
+12.2.1.3.1.5;Umbanda e Candomblé;141;pessoas
+12.2.1.3.1.6;Outras religiosidades;1994;pessoas
+12.2.1.4;Superior completo;66285;pessoas
+12.2.1.4.1;Religião;;
+12.2.1.4.1.1;Sem religião;4560;pessoas
+12.2.1.4.1.2;Católica apostólica romana;43618;pessoas
+12.2.1.4.1.3;Espírita;3874;pessoas
+12.2.1.4.1.4;Evangélica;12239;pessoas
+12.2.1.4.1.4.1;Não determinada;2076;pessoas
+12.2.1.4.1.4.2;Missionária;6736;pessoas
+12.2.1.4.1.4.3;Pentecostal;3427;pessoas
+12.2.1.4.1.5;Umbanda e Candomblé;182;pessoas
+12.2.1.4.1.6;Outras religiosidades;1756;pessoas
+12.2.1.5;Não determinado;306;pessoas
+12.2.1.5.1;Religião;;
+12.2.1.5.1.1;Sem religião;33;pessoas
+12.2.1.5.1.2;Católica apostólica romana;124;pessoas
+12.2.1.5.1.3;Espírita;;pessoas
+12.2.1.5.1.4;Evangélica;139;pessoas
+12.2.1.5.1.4.1;Não determinada;27;pessoas
+12.2.1.5.1.4.2;Missionária;45;pessoas
+12.2.1.5.1.4.3;Pentecostal;67;pessoas
+12.2.1.5.1.5;Umbanda e Candomblé;;pessoas
+12.2.1.5.1.6;Outras religiosidades;10;pessoas
+12.3;População residente;;
+12.3.1;Cor ou raça;;
+12.3.1.1;Amarela;2062;pessoas
+12.3.1.1.1;Religião;;
+12.3.1.1.1.1;Sem religião;298;pessoas
+12.3.1.1.1.2;Católica apostólica romana;899;pessoas
+12.3.1.1.1.3;Espírita;97;pessoas
+12.3.1.1.1.4;Evangélica;446;pessoas
+12.3.1.1.1.4.1;Não determinada;64;pessoas
+12.3.1.1.1.4.2;Missionária;65;pessoas
+12.3.1.1.1.4.3;Pentecostal;316;pessoas
+12.3.1.1.1.5;Umbanda e Candomblé;;pessoas
+12.3.1.1.1.6;Outras religiosidades;322;pessoas
+12.3.1.2;Branca;158179;pessoas
+12.3.1.2.1;Religião;;
+12.3.1.2.1.1;Sem religião;12214;pessoas
+12.3.1.2.1.2;Católica apostólica romana;98465;pessoas
+12.3.1.2.1.3;Espírita;5881;pessoas
+12.3.1.2.1.4;Evangélica;37246;pessoas
+12.3.1.2.1.4.1;Não determinada;7395;pessoas
+12.3.1.2.1.4.2;Missionária;14306;pessoas
+12.3.1.2.1.4.3;Pentecostal;15544;pessoas
+12.3.1.2.1.5;Umbanda e Candomblé;277;pessoas
+12.3.1.2.1.6;Outras religiosidades;3913;pessoas
+12.3.1.3;Indígena;1203;pessoas
+12.3.1.3.1;Religião;;
+12.3.1.3.1.1;Sem religião;73;pessoas
+12.3.1.3.1.2;Católica apostólica romana;564;pessoas
+12.3.1.3.1.3;Espírita;;pessoas
+12.3.1.3.1.4;Evangélica;490;pessoas
+12.3.1.3.1.4.1;Não determinada;67;pessoas
+12.3.1.3.1.4.2;Missionária;77;pessoas
+12.3.1.3.1.4.3;Pentecostal;346;pessoas
+12.3.1.3.1.5;Umbanda e Candomblé;;pessoas
+12.3.1.3.1.6;Outras religiosidades;76;pessoas
+12.3.1.4;Parda;136704;pessoas
+12.3.1.4.1;Religião;;
+12.3.1.4.1.1;Sem religião;18045;pessoas
+12.3.1.4.1.2;Católica apostólica romana;64400;pessoas
+12.3.1.4.1.3;Espírita;2429;pessoas
+12.3.1.4.1.4;Evangélica;48211;pessoas
+12.3.1.4.1.4.1;Não determinada;7082;pessoas
+12.3.1.4.1.4.2;Missionária;10743;pessoas
+12.3.1.4.1.4.3;Pentecostal;30386;pessoas
+12.3.1.4.1.5;Umbanda e Candomblé;140;pessoas
+12.3.1.4.1.6;Outras religiosidades;3266;pessoas
+12.3.1.5;Preta;29653;pessoas
+12.3.1.5.1;Religião;;
+12.3.1.5.1.1;Sem religião;4554;pessoas
+12.3.1.5.1.2;Católica apostólica romana;13112;pessoas
+12.3.1.5.1.3;Espírita;476;pessoas
+12.3.1.5.1.4;Evangélica;10584;pessoas
+12.3.1.5.1.4.1;Não determinada;1856;pessoas
+12.3.1.5.1.4.2;Missionária;1942;pessoas
+12.3.1.5.1.4.3;Pentecostal;6786;pessoas
+12.3.1.5.1.5;Umbanda e Candomblé;117;pessoas
+12.3.1.5.1.6;Outras religiosidades;703;pessoas
+12.3.1.6;Sem declaração;;pessoas
+12.3.1.6.1;Religião;;
+12.3.1.6.1.1;Sem religião;;pessoas
+12.3.1.6.1.2;Católica apostólica romana;;pessoas
+12.3.1.6.1.3;Espírita;;pessoas
+12.3.1.6.1.4;Evangélica;;pessoas
+12.3.1.6.1.4.1;Não determinada;;pessoas
+12.3.1.6.1.4.2;Missionária;;pessoas
+12.3.1.6.1.4.3;Pentecostal;;pessoas
+12.3.1.6.1.5;Umbanda e Candomblé;;pessoas
+12.3.1.6.1.6;Outras religiosidades;;pessoas
+12.3.2;Sexo;;
+12.3.2.1;Masculino;153948;pessoas
+12.3.2.1.1;Religião;;
+12.3.2.1.1.1;Sem religião;20875;pessoas
+12.3.2.1.1.2;Católica apostólica romana;82768;pessoas
+12.3.2.1.1.3;Espírita;4002;pessoas
+12.3.2.1.1.4;Evangélica;41964;pessoas
+12.3.2.1.1.4.1;Não determinada;7349;pessoas
+12.3.2.1.1.4.2;Missionária;11795;pessoas
+12.3.2.1.1.4.3;Pentecostal;22820;pessoas
+12.3.2.1.1.5;Umbanda e Candomblé;309;pessoas
+12.3.2.1.1.6;Outras religiosidades;3881;pessoas
+12.3.2.2;Feminino;173853;pessoas
+12.3.2.2.1;Religião;;
+12.3.2.2.1.1;Sem religião;14308;pessoas
+12.3.2.2.1.2;Católica apostólica romana;94672;pessoas
+12.3.2.2.1.3;Espírita;4881;pessoas
+12.3.2.2.1.4;Evangélica;55014;pessoas
+12.3.2.2.1.4.1;Não determinada;9116;pessoas
+12.3.2.2.1.4.2;Missionária;15339;pessoas
+12.3.2.2.1.4.3;Pentecostal;30559;pessoas
+12.3.2.2.1.5;Umbanda e Candomblé;224;pessoas
+12.3.2.2.1.6;Outras religiosidades;4661;pessoas
+12.3.3;Religião;;
+12.3.3.1;Sem religião;35183;pessoas
+12.3.3.1.1;Agnóstico;599;pessoas
+12.3.3.1.2;Ateu;873;pessoas
+12.3.3.1.3;Sem religião;33710;pessoas
+12.3.3.2;Budismo;396;pessoas
+12.3.3.3;Candomblé;15;pessoas
+12.3.3.4;Católica apostólica brasileira;566;pessoas
+12.3.3.5;Católica apostólica romana;177439;pessoas
+12.3.3.6;Católica ortodoxa;262;pessoas
+12.3.3.7;Espírita;8883;pessoas
+12.3.3.8;Espiritualista;179;pessoas
+12.3.3.9;Evangélica;96977;pessoas
+12.3.3.9.1;Não determinada;16465;pessoas
+12.3.3.9.2;Missionária;27134;pessoas
+12.3.3.9.2.1;Adventista;3113;pessoas
+12.3.3.9.2.2;Batista;17904;pessoas
+12.3.3.9.2.3;Congregacional;;pessoas
+12.3.3.9.2.4;Luterana;1016;pessoas
+12.3.3.9.2.5;Metodista;1442;pessoas
+12.3.3.9.2.6;Presbiteriana;3659;pessoas
+12.3.3.9.2.7;Outras;;pessoas
+12.3.3.9.3;Pentecostal;53378;pessoas
+12.3.3.9.3.1;Comunidade evangélica;53;pessoas
+12.3.3.9.3.2;Evangélica renovada não determinada;66;pessoas
+12.3.3.9.3.3;Assembléia de Deus;21660;pessoas
+12.3.3.9.3.4;Casa da bênção;38;pessoas
+12.3.3.9.3.5;Congregação cristã do Brasil;768;pessoas
+12.3.3.9.3.6;Deus é amor;3627;pessoas
+12.3.3.9.3.7;Igreja do Evangelho Quadrangular;3577;pessoas
+12.3.3.9.3.8;Maranata;13772;pessoas
+12.3.3.9.3.9;Nova vida;378;pessoas
+12.3.3.9.3.10;O Brasil para cristo;48;pessoas
+12.3.3.9.3.11;Igreja universal do reino de deus;2787;pessoas
+12.3.3.9.3.12;Outras;6605;pessoas
+12.3.3.10;Hinduísmo;10;pessoas
+12.3.3.11;Igreja de Jesus cristo dos Santos dos últimos dias;455;pessoas
+12.3.3.12;Islamismo;10;pessoas
+12.3.3.13;Judaísmo;268;pessoas
+12.3.3.14;Não determinada e multiplo pertencimento;896;pessoas
+12.3.3.14.1;Declaração de múltipla religiosidade;;pessoas
+12.3.3.14.2;Religiosidade não determinada ou mal definida;896;pessoas
+12.3.3.15;Novas religiões orientais;261;pessoas
+12.3.3.15.1;Igreja messiânica mundial;232;pessoas
+12.3.3.15.2;Outras;29;pessoas
+12.3.3.16;Testemunhas de Jeová;1721;pessoas
+12.3.3.17;Tradições esotéricas;180;pessoas
+12.3.3.18;Tradições indígenas;38;pessoas
+12.3.3.19;Umbanda;508;pessoas
+12.3.3.20;Umbanda e Candomblé;533;pessoas
+12.3.3.21;Outras declarações de religiosidades afrobrasileira;10;pessoas
+12.3.3.22;Outras religiões orientais;18;pessoas
+12.3.3.23;Outras religiosidades;;pessoas
+12.3.3.24;Outras religiosidades cristãs;3024;pessoas
+12.3.3.25;Não sabe;504;pessoas
+
+
+
+Fonte: IBGE, Censo Demográfico 2010
